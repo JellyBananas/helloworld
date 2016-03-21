@@ -1,11 +1,4 @@
 # helloworld
-so many English words
-
-
-
-
-
-
-
-
-Chinese
+cccc
+cccccc
+cccccccc
