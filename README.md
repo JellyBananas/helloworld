@@ -1,4 +1,2 @@
 # helloworld
-cccc
-cccccc
-cccccccc
+chinese
