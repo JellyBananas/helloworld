@@ -1,5 +1,3 @@
 # helloworld
-bbbbb
-bbbbbbb
-bbbbbbbbb
-
+chinese 
+english
